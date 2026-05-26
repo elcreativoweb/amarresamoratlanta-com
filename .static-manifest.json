@@ -1,0 +1,14 @@
+{
+    "domain": "amarresamoratlanta.com",
+    "base_url": "http:\/\/amarresamoratlanta.com",
+    "pages": 23,
+    "assets": 27,
+    "total_files": 50,
+    "total_size_mb": 3.8,
+    "output_dir": "\/tmp\/static-export\/amarresamoratlanta.com",
+    "pages_failed": [
+        "http:\/\/amarresamoratlanta.com\/wp-sitemap.xml"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 15:46:53"
+}
